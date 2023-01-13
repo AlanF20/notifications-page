@@ -22,7 +22,7 @@ const notifications = [
     "description": 'has joined your group',
     "action":'Chess club',
     "isReaded": false,
-    "userImg": '../public/avatars/avatar-jacob-thompson.webp',
+    "userImg": '/avatars/avatar-jacob-thompson.webp',
     "date": '1 day ago'
   },
   {
