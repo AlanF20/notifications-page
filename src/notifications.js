@@ -5,7 +5,7 @@ const notifications = [
     "description": 'reacted to your recent post',
     "action":'My first tournament today!',
     "isReaded": false,
-    "userImg": '/public/avatars/avatar-mark-webber.webp',
+    "userImg": '/avatars/avatar-mark-webber.webp',
     "date": '1m ago'
   },
   {
@@ -13,7 +13,7 @@ const notifications = [
     "userName": 'Angela Gray',
     "description": 'followed you',
     "isReaded": false,
-    "userImg": '/public/avatars/avatar-angela-gray.webp',
+    "userImg": '/avatars/avatar-angela-gray.webp',
     "date": '5m ago'
   },
   {
@@ -30,7 +30,7 @@ const notifications = [
     "userName": 'Rizky Hasanuddin',
     "description": 'sent you private message',
     "isReaded": true,
-    "userImg": '/public/avatars/avatar-rizky-hasanuddin.webp',
+    "userImg": '/avatars/avatar-rizky-hasanuddin.webp',
     "date": '5 days ago',
     "message": "Hello, thanks for setting up the Chess Club. I've been member for a few weeks now and I'm already having a lots of fun and improving game."
   },
@@ -39,9 +39,9 @@ const notifications = [
     "userName": 'Kimberly Smith',
     "description": 'commented on your picture',
     "isReaded": true,
-    "userImg": '/public/avatars/avatar-kimberly-smith.webp',
+    "userImg": '/avatars/avatar-kimberly-smith.webp',
     "date": '1 week ago',
-    "post": '/public/avatars/image-chess.webp'
+    "post": '/avatars/image-chess.webp'
   },
   {
     "id": 6,
@@ -49,7 +49,7 @@ const notifications = [
     "description": 'reacted to your recent post',
     "action": '5 end-games strategies to increase your win rate',
     "isReaded": true,
-    "userImg": '/public/avatars/avatar-nathan-peterson.webp',
+    "userImg": '/avatars/avatar-nathan-peterson.webp',
     "date": '2 weeks ago'
   },
   {
@@ -58,7 +58,7 @@ const notifications = [
     "description": 'left the group',
     "action": 'Chess club',
     "isReaded": true,
-    "userImg": '/public/avatars/avatar-anna-kim.webp',
+    "userImg": '/avatars/avatar-anna-kim.webp',
     "date": '2 weeks ago'
   }
 ]
